@@ -1,0 +1,15 @@
+{
+  "name": "my-test-mobileservice",
+  "version": "1.0.0",
+  "description": "my-test-mobileservice - hosted on Windows Azure Mobile Services",
+  "main": "server.js",
+  "engines": {
+    "node": ">= 0.8.19"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "author": "unknown",
+  "licenses": [],
+  "keywords":[]
+}
